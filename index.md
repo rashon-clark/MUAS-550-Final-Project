@@ -1,11 +1,6 @@
 ---
 layout: default
-altair-loader:
-  philadelphiarest: "charts/Philadelphia_Rest.json"
-  
-  
-hv-loader:
- 
+
   
   
   
@@ -14,7 +9,7 @@ hv-loader:
 
 # Yelp Ratings and Food Safety Inspections
 
-by Rashon Clark
+by Rashon Clark tesing
 
 
 ## Introduction
