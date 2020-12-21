@@ -40,7 +40,7 @@ As can be seen in the below chart of the top Neighborhoods by inspections, Fisht
 <div id="NumberofReviews"></div>
 
 <div id="Top_10_Inspections"></div>
-
+ width="2000" 
 <div id="hv-chart-top_10"></div>
 For the actual number of restaurants represented in the data, the distribution is much more broad, with a similar amount of establishments across most of the neighborhoods. The key outliers with large numbers were expected, dining districts such as Rittenhouse, Washington Square, Old City, and Chinatown.
 
@@ -56,8 +56,8 @@ As for the Yelp ratings, the majority of restaurants were rated 3 (out of 5) or 
 
 ### Distribution of Yelp Ratings
 
-<div id="NumberofReviews"></div>
-<div id="Distribution_of_Yelp_Ratings"></div>
+<div width="400"  id="NumberofReviews"></div>
+<div width="400" id="Distribution_of_Yelp_Ratings"></div>
 
 
 Although the ratings data is very top-heavy, the two plots below demonstrate that there is a slight correlation between additional food and retail violations and a lower rating. As we move to the right, and the higher ratings, the average number of violations dips lower, although very slightly, for both retail and food safety violations. 
