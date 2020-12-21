@@ -1,12 +1,11 @@
 ---
 layout: default
-published: true
+
 altair-loader:
   philadelphiarest: "charts/Philadelphia_Rest.json"
 
-  
-  
-  
+published: true
+
 ---
 
 # Yelp Ratings and Food Safety Inspections
