@@ -9,13 +9,13 @@ altair-loader:
 
   
 hv-loader:
-  hv-chart-top_10: ["charts/Top_10_Inspection_Plot.html", "1400"]
-  Average-Retail: ["charts/Average Retail Violations by Category.html", "1400"]
-  Average-Food: ["charts/Average_Food_Violations_by_Category.html", "1400"]
-  NeighborListandPlot: ["charts/NeighborListandPlot.html", "1400"]
-  Top_10_Inspections: ["charts/Top_10_Inspection_Plot.html", "1400"]
-  Top_Categories: ["charts/Top_Cuisine_Categories.html", "1400"]
-  Top_Inspections: ["charts/Top_Inspections.html", "1400"]
+  hv-chart-top_10: ["charts/Top_10_Inspection_Plot.html"]
+  Average-Retail: ["charts/Average Retail Violations by Category.html"]
+  Average-Food: ["charts/Average_Food_Violations_by_Category.html"]
+  NeighborListandPlot: ["charts/NeighborListandPlot.html"]
+  Top_10_Inspections: ["charts/Top_10_Inspection_Plot.html"]
+  Top_Categories: ["charts/Top_Cuisine_Categories.html"]
+  Top_Inspections: ["charts/Top_Inspections.html"]
   
 ---
 
@@ -64,7 +64,7 @@ Although the ratings data is very top-heavy, the two plots below demonstrate tha
 
 This is borne out in a correlation matrix of the data, which showed that the number of reviews, and the average number of each violation all had a correlation of about 20%. These slight correlations were enough to influence and improve my predictive model, which I will discuss below.
 
-<img src="charts/matrix.png.PNG" class="img-responsive" alt=""> </div>
+<img src="charts/matrix.png.PNG"> </div>
 
 A model was created to predict the Yelp rating of restaurants, and test our question about the influence of violations on Yelp rating. Of course, a disclaimer must be made that these investigations will only show correlation, and not causation. However, it is assumed that the violation record is capturing the same differences between restaurants that diners are capturing through their subjective experiences. I used the number of ratings, the average number of violations, the price rating, and zip code and category data. The returned a score of .21, meaning that the model accounted for a little over 20% of the variation between the rating of the restaurants. The average violations were also the most importance features, which is consistent with the correlation matrix and the data visualizations. 
 
