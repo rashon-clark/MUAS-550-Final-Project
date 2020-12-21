@@ -56,6 +56,10 @@ As for the Yelp ratings, the majority of restaurants were rated 3 (out of 5) or 
 
 ### Distribution of Yelp Ratings
 
+<div id="NumberofReviews"></div>
+<div id="Distribution_of_Yelp_Ratings"></div>
+
+
 Although the ratings data is very top-heavy, the two plots below demonstrate that there is a slight correlation between additional food and retail violations and a lower rating. As we move to the right, and the higher ratings, the average number of violations dips lower, although very slightly, for both retail and food safety violations. 
 
 ### Bar plot 1
