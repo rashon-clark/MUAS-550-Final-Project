@@ -37,7 +37,8 @@ Data from Yelp was drawn through the Yelp API and the food inspections data was 
 
 As can be seen in the below chart of the top Neighborhoods by inspections, Fishtown has the largest amount by many multiples of the rest. This may be a quirk of the two datasets, with Fishtown names and addresses merging better than other addresses. Fishtown may also have a more long-lived base of restaurants. Because the Yelp API only returns active restaurants, inspections from shuttered restaurants are invariably dropped from the dataset. Consequently, neighborhoods with a high business turnover at certain locations may have diminished visibility in the dataset.
 
-### Ranked Neighborhoods by Inspection
+
+<div id="Top_10_Inspections"></div>
 
 For the actual number of restaurants represented in the data, the distribution is much more broad, with a similar amount of establishments across most of the neighborhoods. The key outliers with large numbers were expected, dining districts such as Rittenhouse, Washington Square, Old City, and Chinatown.
 
