@@ -9,13 +9,13 @@ altair-loader:
 
   
 hv-loader:
-  hv-chart-top_10: ["charts/Top_10_Inspection_Plot.html", "800"]
-  Average-Retail: ["charts/Average Retail Violations by Category.html", "800"]
-  Average-Food: ["charts/Average_Food_Violations_by_Category.html", "800"]
-  NeighborListandPlot: ["charts/NeighborListandPlot.html", "800"]
-  Top_10_Inspections: ["charts/Top_10_Inspection_Plot.html", "800"]
-  Top_Categories: ["charts/Top_Cuisine_Categories.html", "800"]
-  Top_Inspections: ["charts/Top_Inspections.html", "800"]
+  hv-chart-top_10: ["charts/Top_10_Inspection_Plot.html", "1400"]
+  Average-Retail: ["charts/Average Retail Violations by Category.html", "1400"]
+  Average-Food: ["charts/Average_Food_Violations_by_Category.html", "1400"]
+  NeighborListandPlot: ["charts/NeighborListandPlot.html", "1400"]
+  Top_10_Inspections: ["charts/Top_10_Inspection_Plot.html", "1400"]
+  Top_Categories: ["charts/Top_Cuisine_Categories.html", "1400"]
+  Top_Inspections: ["charts/Top_Inspections.html", "1400"]
   
 ---
 
