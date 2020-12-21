@@ -1,7 +1,8 @@
 ---
 layout: default
+altair-loader:
+  philadelphiarest: "charts/Philadelphia_Rest.json"
 
-  
   
   
   
