@@ -1,7 +1,7 @@
 ---
 layout: default
 altair-loader:
-  philadelphiarest: "charts/Philadelphia_Rest.json"
+  philadelphiarest: "Yelp_Inspections_Project_2/charts/Philadelphia_Rest.json"
 
   
   
@@ -10,7 +10,7 @@ altair-loader:
 
 # Yelp Ratings and Food Safety Inspections
 
-by Rashon Clark tesing
+by Rashon Clark tesing two
 
 
 ## Introduction
