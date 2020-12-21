@@ -2,11 +2,7 @@
 layout: default
 altair-loader:
   philadelphiarest: "charts/Philadelphia_Rest.json"
-  Distribution_of_Yelp_Ratings: "Distribution_of_Yelp_Ratings.json"
-  NumberofReviews: "NumberofReviews.json"
-  Ratings_by_Food_Vio: "Ratings_by_Food_Vio.json"
-  Ratings_by_Retail_Vio: "Ratings_by_Retail_Vio.json"
-
+  
   
 hv-loader:
   hv-chart-top_10: ["charts/Top_10_Inspection_Plot.html"]
