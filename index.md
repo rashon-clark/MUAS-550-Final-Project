@@ -64,7 +64,7 @@ Although the ratings data is very top-heavy, the two plots below demonstrate tha
 
 This is borne out in a correlation matrix of the data, which showed that the number of reviews, and the average number of each violation all had a correlation of about 20%. These slight correlations were enough to influence and improve my predictive model, which I will discuss below.
 
-<div id="matrix.png"></div>
+<img="matrix.png"></img>
 
 A model was created to predict the Yelp rating of restaurants, and test our question about the influence of violations on Yelp rating. Of course, a disclaimer must be made that these investigations will only show correlation, and not causation. However, it is assumed that the violation record is capturing the same differences between restaurants that diners are capturing through their subjective experiences. I used the number of ratings, the average number of violations, the price rating, and zip code and category data. The returned a score of .21, meaning that the model accounted for a little over 20% of the variation between the rating of the restaurants. The average violations were also the most importance features, which is consistent with the correlation matrix and the data visualizations. 
 
