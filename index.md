@@ -10,7 +10,7 @@ published: true
 
 # Yelp Ratings and Food Safety Inspections
 
-by Rashon Clark tesing
+by Rashon Clark tesing two
 
 
 ## Introduction
