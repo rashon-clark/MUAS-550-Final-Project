@@ -9,7 +9,7 @@ folium-loader:
   folium-chart-2: ["charts/percent_no_internet.html", "400"] # second argument is the desired height
 ---
 
-#RASHON
+# RASHON
 
 # Welcome!
 
