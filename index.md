@@ -41,6 +41,7 @@ As can be seen in the below chart of the top Neighborhoods by inspections, Fisht
 
 <div id="Top_10_Inspections"></div>
 
+<div id="hv-chart-top_10"></div>
 For the actual number of restaurants represented in the data, the distribution is much more broad, with a similar amount of establishments across most of the neighborhoods. The key outliers with large numbers were expected, dining districts such as Rittenhouse, Washington Square, Old City, and Chinatown.
 
 ### Ranked Neighborhoods by Number 
