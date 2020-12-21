@@ -14,7 +14,7 @@ hv-loader:
   NeighborListandPlot: ["charts/NeighborListandPlot.html"]
   Top_10_Inspections: ["charts/Top_10_Inspection_Plot.html"]
   Top_Categories: ["charts/Top_Cuisine_Categories.html"]
-  Top_Inspections: ["charts/Top_Inspections.html"]
+
   
   
 ---
