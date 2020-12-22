@@ -46,7 +46,7 @@ The breakdown in regard to the most numerous categories was very interesting, wi
 
 <div width="2000" id="NeighborListandPlot"></div>
 
-<div id="Average-Retail"></div>
+<div height="2000" id="Average-Retail"></div>
 
 <div id="Average-Food"></div>
 
