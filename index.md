@@ -40,17 +40,15 @@ As can be seen in the below chart of the top Neighborhoods by inspections, Fisht
  
 For the actual number of restaurants represented in the data, the distribution is much more broad, with a similar amount of establishments across most of the neighborhoods. The key outliers with large numbers were expected, dining districts such as Rittenhouse, Washington Square, Old City, and Chinatown.
 
-<div id="NeighborListandPlot"></div>
+<div id="list"></div>
+
+<div id="map"></div>
 
 The breakdown in regard to the most numerous categories was very interesting, with the top five common restaurant types being Pizza, Chinese, American, Delis, and Bakeries. In general, the different categories of cuisines feature similar average number of violations, with the exception of ice creameries.
 
 <div id="Top_Categories"></div>
 
-<div width="2000" id="list"></div>
-
-<div width="2000" id="map"></div>
-
-<div height="2000" id="Average-Retail"></div>
+<div id="Average-Retail"></div>
 
 <div id="Average-Food"></div>
 
