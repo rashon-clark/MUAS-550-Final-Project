@@ -9,11 +9,11 @@ altair-loader:
 
   
 hv-loader:
-  Average-Retail: ["charts/Average Retail Violations by Category.html", "500"]
-  Average-Food: ["charts/Average_Food_Violations_by_Category.html", "500"]
-  NeighborListandPlot: ["charts/NeighborListandPlot.html", "500"]
-  Top_10_Inspections: ["charts/Top_10_Inspection_Plot.html", "500"]
-  Top_Categories: ["charts/Top_Cuisine_Categories.html", "500"]
+  Average-Retail: ["charts/Average Retail Violations by Category.html", "400"]
+  Average-Food: ["charts/Average_Food_Violations_by_Category.html", "400"]
+  NeighborListandPlot: ["charts/NeighborListandPlot.html", "400"]
+  Top_10_Inspections: ["charts/Top_10_Inspection_Plot.html", "400"]
+  Top_Categories: ["charts/Top_Cuisine_Categories.html", "400"]
 
   
   
