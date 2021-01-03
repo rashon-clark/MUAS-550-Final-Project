@@ -19,6 +19,11 @@ hv-loader:
   
   
 ---
+<style>
+  #Distribution_of_Yelp_Ratings {
+    width: 800px;
+  }
+</style> 
 
 # Yelp Ratings and Food Safety Inspections
 
