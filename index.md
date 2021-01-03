@@ -19,6 +19,20 @@ hv-loader:
   
   
 ---
+<style>
+  #Distribution_of_Yelp_Ratings {
+    width: 600px;
+  }
+  #NumberofReviews {
+    width: 600px
+  }
+  #Ratings_by_Food_Vio {
+    width: 600px
+  }
+  #Ratings_by_Retail_Vio {
+    width: 600px
+  }
+</style> 
 
 # Yelp Ratings and Food Safety Inspections
 
