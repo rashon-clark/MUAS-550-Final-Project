@@ -21,16 +21,16 @@ hv-loader:
 ---
 <style>
   #Distribution_of_Yelp_Ratings {
-    width: 800px;
+    width: 600px;
   }
   #NumberofReviews {
-    width: 800px
+    width: 600px
   }
   #Ratings_by_Food_Vio {
-    width: 800px
+    width: 600px
   }
   #Ratings_by_Retail_Vio {
-    width: 800px
+    width: 600px
   }
 </style> 
 
